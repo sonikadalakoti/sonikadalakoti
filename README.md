@@ -9,15 +9,15 @@ AI product management brings these different parts of my experience together: re
 
 ## Featured Case Studies
 
-### [Fireflies.ai: Commitment Closure Case Study](https://github.com/sonikadalakoti/fireflies-ai-commitment-closure-case-study)
+### [Fireflies.ai: Meeting Action-Item Ownership and Outcome Tracking](https://github.com/sonikadalakoti/fireflies-ai-commitment-closure-case-study)
 
-Explored how Fireflies.ai could help teams confirm ownership, track meeting-generated commitments and record honest outcomes without becoming a full project-management tool.
+Explored how Fireflies.ai could help teams confirm ownership, keep meeting-generated commitments current and record honest outcomes without becoming a project-management tool. Built an interactive prototype covering host review, owner confirmation, status updates, reassignment and final resolution, supported by success metrics and a phased GTM plan.
 
 **Focus areas:** user research, problem framing, prioritisation, interactive prototyping, metrics and GTM strategy.
 
-### [VitaFit: Stay Consistent Case Study](https://github.com/sonikadalakoti/vitafit-stay-consistent-case-study)
+### [VitaFit: Workout Consistency and Retention Strategy](https://github.com/sonikadalakoti/vitafit-stay-consistent-case-study)
 
-Proposed a retention experience using recovery workouts, earned streak protection and cooperative community challenges.
+Proposed a retention experience to help inconsistent fitness users return after missing a workout through recovery workouts, earned streak protection and cooperative challenges. Created a PRD and a four-week experiment plan using 7-day repeat workout rate as the primary success metric.
 
 **Focus areas:** product strategy, user segmentation, PRD writing, experiment design, success metrics and product trade-offs.
 
